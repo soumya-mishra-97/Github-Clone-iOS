@@ -1,4 +1,4 @@
-<img width="275" height="600" alt="Profile" src="https://github.com/user-attachments/assets/1a9226cc-6821-41f9-90ac-693abf407eec" /><img width="275" height="600" alt="Searchuser" src="https://github.com/user-attachments/assets/ea28ef9b-134c-4922-a489-aacab33d0095" /># GitHub Clone App
+# GitHub Clone App
 
 A GitHub profile and repository viewer built with SwiftUI, Combine, and MVVM using Clean Architecture.
 
