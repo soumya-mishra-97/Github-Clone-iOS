@@ -19,7 +19,6 @@ A GitHub profile and repository viewer built with SwiftUI, Combine, and MVVM usi
 - URLSession for API calls
 - XCTest for unit testing
 
-
 ## Requirements
 
 - Xcode 15+
